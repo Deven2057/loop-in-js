@@ -30,7 +30,7 @@ function mean(a,b,c,d,e) {
 console.log(mean(1,2,3,4,5))
 let num = [1, 2, 3, 44, 55, 3, 5]
 
-//forEach loop
+//forEach loops
 num.forEach((Element) => [
   console.log(Element+1)
 ])
